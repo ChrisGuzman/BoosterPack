@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">BoosterPack</string>
+    <string name="dance_of_the_dead_text">Enchant creature card in a graveyard\nWhen Dance of the Dead enters the battlefield, if it\'s on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with Dance of the Dead.\" Put enchanted creature card onto the battlefield tapped under your control and attach Dance of the Dead to it. When Dance of the Dead leaves the battlefield, that creature\'s controller sacrifices it.\nEnchanted creature gets +1/+1 and doesn\'t untap during its controller\'s untap step.\nAt the beginning of the upkeep of enchanted creature\'s controller, that player may pay &#123;1&#125;&#123;B&#125;. If the player does, untap that creature.</string>
+    <string name="slash">/</string>
+    <string name="sets">Sets</string>
+    <string name="booster">Booster</string>
+    <string name="saved_cards">Saved Cards</string>
+    <string name="search_for_a_set_code">Search for a set code</string>
+    <string name="random_set">Random Set</string>
+    <string name="welcome_msg">Search for a mtg set by acronym or click the shuffle button to open a random pack.\nClick on a card to save your pulls for later!</string>
+    <string name="reminder_click_on_card">Click on an item in the booster tab to save it. Swipe on a card to delete it.</string>
+    <string name="card_image">Card Image</string>
+    <string-array name="set_codes">
+        <item>ARN</item>
+        <item>ATQ</item>
+        <item>LEG</item>
+        <item>DRK</item>
+        <item>FEM</item>
+        <item>ICE</item>
+        <item>HML</item>
+        <item>ALL</item>
+        <item>MIR</item>
+        <item>VIS</item>
+        <item>WTH</item>
+        <item>TMP</item>
+        <item>STH</item>
+        <item>EXO</item>
+        <item>USG</item>
+        <item>ULG</item>
+        <item>UDS</item>
+        <item>MMQ</item>
+        <item>NEM</item>
+        <item>PCY</item>
+        <item>INV</item>
+        <item>PLS</item>
+        <item>APC</item>
+        <item>ODY</item>
+        <item>TOR</item>
+        <item>JUD</item>
+        <item>ONS</item>
+        <item>LGN</item>
+        <item>SCG</item>
+        <item>MRD</item>
+        <item>DST</item>
+        <item>5DN</item>
+        <item>CHK</item>
+        <item>BOK</item>
+        <item>SOK</item>
+        <item>RAV</item>
+        <item>GPT</item>
+        <item>DIS</item>
+        <item>CSP</item>
+        <item>TSP</item>
+        <item>PLC</item>
+        <item>FUT</item>
+        <item>LRW</item>
+        <item>MOR</item>
+        <item>SHM</item>
+        <item>EVE</item>
+        <item>ALA</item>
+        <item>CON</item>
+        <item>ARB</item>
+        <item>ZEN</item>
+        <item>WWK</item>
+        <item>ROE</item>
+        <item>SOM</item>
+        <item>MBS</item>
+        <item>NPH</item>
+        <item>ISD</item>
+        <item>DKA</item>
+        <item>AVR</item>
+        <item>RTR</item>
+        <item>GTC</item>
+        <item>DGM</item>
+        <item>THS</item>
+        <item>BNG</item>
+        <item>JOU</item>
+        <item>KTK</item>
+        <item>FRF</item>
+        <item>DTK</item>
+        <item>BFZ</item>
+        <item>OGW</item>
+        <item>KLD</item>
+        <item>AER</item>
+        <item>AKH</item>
+        <item>HOU</item>
+        <item>XLN</item>
+        <item>RIX</item>
+        <item>DOM</item>
+        <item>GRN</item>
+        <item>RNA</item>
+        <item>WAR</item>
+        <item>ELD</item>
+        <item>THB</item>
+        <item>IKO</item>
+        <item>ZNR</item>
+        <item>KHM</item>
+        <item>STX</item>
+        <item>AFR</item>
+        <item>NEO</item>
+        <item>SNC</item>
+        <item>MH1</item>
+        <item>MH2</item>
+        <item>MMA</item>
+        <item>MM2</item>
+        <item>EMA</item>
+        <item>MM3</item>
+        <item>IMA</item>
+        <item>A25</item>
+        <item>UMA</item>
+        <item>2XM</item>
+        <item>UGL</item>
+        <item>UNH</item>
+        UST
+    </string-array>
+</resources>
